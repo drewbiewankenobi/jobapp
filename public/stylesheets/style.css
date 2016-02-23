@@ -1,0 +1,12 @@
+body {
+  font: 14px "Helvetica-Neue", Helvetica, Arial, sans-serif;
+  background-color: #3498db;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1, h2 {
+	text-align: center;
+}
